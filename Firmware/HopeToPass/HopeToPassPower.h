@@ -16,7 +16,7 @@ public:
   uint16_t getBatteryVoltage();
 
   void enableGPS();
-  void disableGPD();
+  void disableGPS();
 
   void enableMP3();
   void disableMP3();
